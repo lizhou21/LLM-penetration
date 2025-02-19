@@ -1,9 +1,9 @@
-# LLMs Penetration in Scholarly Writing and Peer Review
+## Large Language Models Penetration in Scholarly Writing and Peer Review
 
 ![](/figure/output/model.png)
 
 
-## Citation
+### Citation
 ```
 @misc{zhou2025large,
       title={Large Language Models Penetration in Scholarly Writing and Peer Review}, 
